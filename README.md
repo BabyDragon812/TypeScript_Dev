@@ -1,1 +1,1 @@
-# TypeScript_Dev
+# This is the project developed with TypeScript.
