@@ -1,1 +1,1 @@
-# This is the project developed with TypeScript.
+# This is my project developed with TypeScript.
